@@ -66,122 +66,124 @@ function App() {
         </div>
       </div>
       {/* ************************************************************** */}
-      <div className="third-box-design">
-        <p className="canny">Design Services</p>
-        <hr id="short-line" />
-        <div className="main-box">
-          <div className="first-box">
-            <img src={img3} id="first-img"></img>
-            <p className="Ad">Ad Creative</p>
-            <p className="pirates">
-              Get Static and motion ad creative, concepts, and variations for
-              testing your way to better result across social media.{" "}
-            </p>
-            <hr className="long-line" />
+      <div className="lvlo">
+        <div className="third-box-design">
+          <p className="canny">Design Services</p>
+          <hr id="short-line" />
+          <div className="main-box">
+            <div className="first-box">
+              <img src={img3} id="first-img"></img>
+              <p className="Ad">Ad Creative</p>
+              <p className="pirates">
+                Get Static and motion ad creative, concepts, and variations for
+                testing your way to better result across social media.{" "}
+              </p>
+              <hr className="long-line" />
+            </div>
+            <div className="first-box">
+              <img src={img4} id="first-img"></img>
+              <p className="Ad">Ad Creative</p>
+              <p className="pirates">
+                Get Static and motion ad creative, concepts, and variations for
+                testing your way to better result across social media.{" "}
+              </p>
+              <hr className="long-line" />
+            </div>
+            <div className="first-box">
+              <img src={img5} id="first-img"></img>
+              <p className="Ad">Ad Creative</p>
+              <p className="pirates">
+                Get Static and motion ad creative, concepts, and variations for
+                testing your way to better result across social media.{" "}
+              </p>
+              <hr className="long-line" />
+            </div>
+            <div className="first-box">
+              <img src={img6} id="first-img"></img>
+              <p className="Ad">Ad Creative</p>
+              <p className="pirates">
+                Get Static and motion ad creative, concepts, and variations for
+                testing your way to better result across social media.{" "}
+              </p>
+              <hr className="long-line" />
+            </div>
+            <div className="first-box">
+              <img src={img7} id="first-img"></img>
+              <p className="Ad">Ad Creative</p>
+              <p className="pirates">
+                Get Static and motion ad creative, concepts, and variations for
+                testing your way to better result across social media.{" "}
+              </p>
+              <hr className="long-line" />
+            </div>
+            <div className="first-box">
+              <img src={img8} id="first-img"></img>
+              <p className="Ad">Ad Creative</p>
+              <p className="pirates">
+                Get Static and motion ad creative, concepts, and variations for
+                testing your way to better result across social media.{" "}
+              </p>
+              <hr className="long-line" />
+            </div>
+            <div className="first-box">
+              <img src={img9} id="first-img"></img>
+              <p className="Ad">Ad Creative</p>
+              <p className="pirates">
+                Get Static and motion ad creative, concepts, and variations for
+                testing your way to better result across social media.{" "}
+              </p>
+              <hr className="long-line" />
+            </div>
+            <div className="first-box">
+              <img src={img10} id="first-img"></img>
+              <p className="Ad">Ad Creative</p>
+              <p className="pirates">
+                Get Static and motion ad creative, concepts, and variations for
+                testing your way to better result across social media.{" "}
+              </p>
+              <hr className="long-line" />
+            </div>
+            <div className="first-box">
+              <img src={img11} id="first-img"></img>
+              <p className="Ad">Ad Creative</p>
+              <p className="pirates">
+                Get Static and motion ad creative, concepts, and variations for
+                testing your way to better result across social media.{" "}
+              </p>
+              <hr className="long-line" />
+            </div>
+            <div className="first-box">
+              <img src={img12} id="first-img"></img>
+              <p className="Ad">Ad Creative</p>
+              <p className="pirates">
+                Get Static and motion ad creative, concepts, and variations for
+                testing your way to better result across social media.{" "}
+              </p>
+            </div>
+            <div className="first-box">
+              <img src={img13} id="first-img"></img>
+              <p className="Ad">Ad Creative</p>
+              <p className="pirates">
+                Get Static and motion ad creative, concepts, and variations for
+                testing your way to better result across social media.{" "}
+              </p>
+            </div>
+            <div className="first-box">
+              <img src={img14} id="first-img"></img>
+              <p className="Ad">Ad Creative</p>
+              <p className="pirates">
+                Get Static and motion ad creative, concepts, and variations for
+                testing your way to better result across social media.{" "}
+              </p>
+            </div>
           </div>
-          <div className="first-box">
-            <img src={img4} id="first-img"></img>
-            <p className="Ad">Ad Creative</p>
-            <p className="pirates">
-              Get Static and motion ad creative, concepts, and variations for
-              testing your way to better result across social media.{" "}
+          <p className="driving">DRIVING GREAT OUTCOMES</p>
+          <div className="main-button">
+            <p className="as-creative">
+              #1 Creative-as-a-Service solution for marketing and creative teams
             </p>
-            <hr className="long-line" />
+            <button className="read_now">Book a Demo</button>
           </div>
-          <div className="first-box">
-            <img src={img5} id="first-img"></img>
-            <p className="Ad">Ad Creative</p>
-            <p className="pirates">
-              Get Static and motion ad creative, concepts, and variations for
-              testing your way to better result across social media.{" "}
-            </p>
-            <hr className="long-line" />
-          </div>
-          <div className="first-box">
-            <img src={img6} id="first-img"></img>
-            <p className="Ad">Ad Creative</p>
-            <p className="pirates">
-              Get Static and motion ad creative, concepts, and variations for
-              testing your way to better result across social media.{" "}
-            </p>
-            <hr className="long-line" />
-          </div>
-          <div className="first-box">
-            <img src={img7} id="first-img"></img>
-            <p className="Ad">Ad Creative</p>
-            <p className="pirates">
-              Get Static and motion ad creative, concepts, and variations for
-              testing your way to better result across social media.{" "}
-            </p>
-            <hr className="long-line" />
-          </div>
-          <div className="first-box">
-            <img src={img8} id="first-img"></img>
-            <p className="Ad">Ad Creative</p>
-            <p className="pirates">
-              Get Static and motion ad creative, concepts, and variations for
-              testing your way to better result across social media.{" "}
-            </p>
-            <hr className="long-line" />
-          </div>
-          <div className="first-box">
-            <img src={img9} id="first-img"></img>
-            <p className="Ad">Ad Creative</p>
-            <p className="pirates">
-              Get Static and motion ad creative, concepts, and variations for
-              testing your way to better result across social media.{" "}
-            </p>
-            <hr className="long-line" />
-          </div>
-          <div className="first-box">
-            <img src={img10} id="first-img"></img>
-            <p className="Ad">Ad Creative</p>
-            <p className="pirates">
-              Get Static and motion ad creative, concepts, and variations for
-              testing your way to better result across social media.{" "}
-            </p>
-            <hr className="long-line" />
-          </div>
-          <div className="first-box">
-            <img src={img11} id="first-img"></img>
-            <p className="Ad">Ad Creative</p>
-            <p className="pirates">
-              Get Static and motion ad creative, concepts, and variations for
-              testing your way to better result across social media.{" "}
-            </p>
-            <hr className="long-line" />
-          </div>
-          <div className="first-box">
-            <img src={img12} id="first-img"></img>
-            <p className="Ad">Ad Creative</p>
-            <p className="pirates">
-              Get Static and motion ad creative, concepts, and variations for
-              testing your way to better result across social media.{" "}
-            </p>
-          </div>
-          <div className="first-box">
-            <img src={img13} id="first-img"></img>
-            <p className="Ad">Ad Creative</p>
-            <p className="pirates">
-              Get Static and motion ad creative, concepts, and variations for
-              testing your way to better result across social media.{" "}
-            </p>
-          </div>
-          <div className="first-box">
-            <img src={img14} id="first-img"></img>
-            <p className="Ad">Ad Creative</p>
-            <p className="pirates">
-              Get Static and motion ad creative, concepts, and variations for
-              testing your way to better result across social media.{" "}
-            </p>
-          </div>
-        </div>
-        <p className="driving">DRIVING GREAT OUTCOMES</p>
-        <div className="main-button">
-          <p className="as-creative">
-            #1 Creative-as-a-Service solution for marketing and creative teams
-          </p>
-          <button className="read_now">Book a Demo</button>
         </div>
       </div>
     </div>

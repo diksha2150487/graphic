@@ -25,7 +25,7 @@
   z-index: 2;
 } */
 .Ambitious {
-  font-size: 24px;
+  font-size: 26px;
   color: #ffffff;
   font-family: "Roboto", sans-serif;
   max-width: 40%;
@@ -35,16 +35,17 @@
   text-align: left;
 }
 .brand {
-  font-size: 15px;
-  color: #ffffff;
+  font-size: 17px;
+  color: whitesmoke;
+  text-align: left;
   line-height: 30px;
   font-family: "Poppins", sans-serif;
   font-weight: 100;
   padding-left: 25px;
-  max-width: 65%;
+  max-width: 70%;
 }
 .vl {
-  border-left: 2px solid white;
+  border-left: 1px solid whitesmoke;
   height: 105px;
 }
 .line-single {
@@ -62,14 +63,14 @@
   outline: none;
   padding: 1rem;
   font-family: "Poppins", sans-serif;
-  font-size: 17px;
+  font-size: 16px;
   background-color: #ffffff;
   display: flex;
   border: none;
 }
 #fArrow {
   padding-top: 2.5px;
-  font-size: 17px;
+  font-size: 18px;
   margin-left: 8px;
   color: black;
   font-weight: 300;
@@ -161,9 +162,13 @@
 }
 /* ******************************************** */
 .third-box-design {
-  background-color: #0b1926;
   padding: 3rem 0rem 0rem 6rem;
   padding-bottom: 3rem;
+  background: url(./images/Rectangle\ 18200.png) right top 0.6% no-repeat,
+    url(./images/Rectangle\ 18199.png) left top -35% repeat;
+}
+.lvlo {
+  background-color: #0b1926;
 }
 .canny {
   font-family: "Roboto", sans-serif;
