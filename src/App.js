@@ -15,6 +15,7 @@ import img11 from "./images/Rectangle 18189 (2).png";
 import img12 from "./images/Rectangle 18187 (3).png";
 import img13 from "./images/Rectangle 18188 (3).png";
 import img14 from "./images/Rectangle 18189 (3).png";
+import img15 from "./images/Group 1000006889.png";
 function App() {
   return (
     <div>
@@ -184,6 +185,27 @@ function App() {
             </p>
             <button className="read_now">Book a Demo</button>
           </div>
+        </div>
+      </div>
+      {/* ********************************************************************* */}
+      <div className="fourth-desing-main">
+        <div className="left-section-mei">
+          <p className="sake">What makes our design services different?</p>
+          <p className="noble">
+            We deliver speedy, high-quality graphic design services through a
+            transparent subscription model. We are a tech-enabled company,
+            developing its own proprietary software to brief, manage, and
+            coordinate a high-volume of design projects, making it possible to
+            keep pace with teams at Amazon, Puma, Facebook, and more.
+          </p>
+          <p className="klyo">
+            Learn how we can revolutionize the way your organization gets design
+            work done. Book a call today.
+          </p>
+          <button className="olea">Book a call</button>
+        </div>
+        <div className="right-section-fiji">
+          <img src={img15} id="fly-men"></img>
         </div>
       </div>
     </div>

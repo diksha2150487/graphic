@@ -193,8 +193,8 @@
   flex-wrap: wrap;
 }
 #first-img {
-  max-width: 420px;
-  height: 300px;
+  max-width: 400px;
+  height: 280px;
 }
 .Ad {
   color: white;
@@ -216,12 +216,12 @@
   margin-top: 45px;
 }
 .first-box {
-  margin: 20px;
+  margin: 10px;
 }
 .driving {
   color: #ffffff;
   font-size: 25px;
-  padding-top: 6rem;
+  padding-top: 7rem;
   font-family: "Poppins", sans-serif;
   font-weight: 400;
   line-height: 44px;
@@ -249,4 +249,63 @@
   border-radius: 5px;
   color: whitesmoke;
   background-color: #085881;
+}
+/* ************************************************************** */
+.fourth-desing-main {
+  display: flex;
+  background-color: ;
+}
+.left-section-mei {
+  width: 55%;
+
+  padding: 6rem;
+}
+.sake {
+  font-family: "Roboto", sans-serif;
+  max-width: 400px;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 40px;
+  text-align: left;
+  color: #33475b;
+}
+.noble {
+  font-family: "Poppins", sans-serif;
+  padding-top: 25px;
+  font-size: 18px;
+  font-weight: 400;
+  max-width: 520px;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #33475b;
+}
+.klyo {
+  font-family: "Poppins", sans-serif;
+  color: #33475b;
+  font-size: 18px;
+  font-weight: 400;
+  max-width: 480px;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.olea {
+  padding: 8px 2.5rem 8px 2.5rem;
+  height: 60px;
+  font-size: 20px;
+  border: none;
+  border-radius: 5px;
+  color: whitesmoke;
+  background-color: #085881;
+  margin-top: 2rem;
+}
+.right-section-fiji {
+  width: 45%;
+}
+#fly-men {
+  margin-top: 8rem;
+  max-width: 620px;
+  height: 340px;
+  margin-left: 40px;
 }
